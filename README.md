@@ -1,0 +1,3 @@
+# Flight Networks  
+
+This project explores the global airline network using real-world flight, airport, airline, and aircraft data. The notebook builds flight networks with NetworkX and analyzes them using centrality measures, weighted and unweighted graphs, and visualizations. It also looks at how airline networks change over time, including during COVID, and how removing major hubs affects overall connectivity.
